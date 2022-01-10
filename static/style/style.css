@@ -1,0 +1,12 @@
+body {
+    background-image: url("/static/images/wallpaper.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card-box {
+    position: relative;
+    padding: 100px;
+    background-color: white;
+    width: 50px;
+}
